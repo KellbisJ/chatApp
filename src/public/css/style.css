@@ -3,8 +3,18 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+body {
+	font-family: Arial, sans-serif;
+	background-color: #a2d2df;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
 
 h1 {
-	background-color: aqua;
-	color: blueviolet;
+	font-size: 24px;
 }
