@@ -1,0 +1,17 @@
+{
+  "name": "webchat",
+  "version": "1.0.0",
+  "description": "Project course Socket.IO",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch src/index.js"
+  },
+  "author": "KellbisSalazar",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.1",
+    "socket.io": "^4.8.0"
+  }
+}
